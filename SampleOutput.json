@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Aria Alamalhodaei",
+    "title": "Astranis' novel approach to internet satellites is starting to pay off",
+    "description": "Astranis said that its first spacecraft completed a milestone test and will start bringing broadband access to rural Alaskans in mid-June.",
+    "url": "https://techcrunch.com/2023/05/24/astranis-novel-approach-to-internet-satellites-is-starting-to-pay-off/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/Arcturus-Launch-Reaction.jpg?resize=1200,675",
+    "publishedAt": "2023-05-24T15:59:01Z",
+    "content": "Astranis, a satellite internet startup based in San Francisco, said Wednesday that its first spacecraft completed a milestone test and will start bringing broadband access to rural Alaskans as soon a… [+3864 chars]"
+    },
+    {
+    "source": {
+    "id": "the-huffington-post",
+    "name": "The Huffington Post"
+    },
+    "author": "Shruti Rajkumar",
+    "title": "'Trans Youth Prom' Fosters Space For Transgender Joy And Community",
+    "description": "The youth-led event was created to center transgender joy as an act of resistance amid nationwide attacks on the queer community.",
+    "url": "https://www.huffpost.com/entry/trans-youth-prom-capitol_n_646d1cd6e4b0355739399542",
+    "urlToImage": "https://img.huffingtonpost.com/asset/646d1e162400006a006bca64.jpeg?cache=gQ4BbgMQGy&ops=1200_630",
+    "publishedAt": "2023-05-23T21:23:19Z",
+    "content": "A large crowd of transgender youth and adults gathered around Union Square in Washington, D.C., on Monday for the Trans Youth Prom, a celebratory youth-led event created to hold space for transgender… [+4460 chars]"
+    },
+    {
+    "source": {
+    "id": "the-next-web",
+    "name": "The Next Web"
+    },
+    "author": "Linnea Ahlgren",
+    "title": "The future of Dutch aerospace? Meet Fokker Next Gen’s hydrogen plane",
+    "description": "Dutch aerospace pioneer Fokker is looking to make a comeback. This time however, it won’t be polluting Jet A fuel propelling the company’s aircraft. Instead, in the revived guise ...",
+    "url": "http://thenextweb.com/news/future-dutch-aerospace-fokker-next-gen-hydrogen-plane",
+    "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F05%2Ffokker-next-gen-aircraft-1-04.jpg&signature=cc1f085b2d03a4aaf935c9cd3f075533",
+    "publishedAt": "2023-05-23T06:30:11Z",
+    "content": "Dutch aerospace pioneer Fokker is looking to make a comeback. This time however, it wont be polluting Jet A fuel propelling the companys aircraft. Instead, in the revived guise of Fokker Next Gen, it… [+3119 chars]"
+    },
+    {
+    "source": {
+    "id": "next-big-future",
+    "name": "Next Big Future"
+    },
+    "author": "Brian Wang",
+    "title": "Improved Renderings of the SpaceX Water Cooled Steel Plate Launch System | NextBigFuture.com",
+    "description": "Ryan Hansen completely redid all his models related to SpaceX water cooled steel plate launch system. The supply pipes and manifolds have been measured and",
+    "url": "https://www.nextbigfuture.com/2023/05/improved-renderings-of-the-spacex-water-cooled-steel-plate-launch-system.html",
+    "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/05/spacexsteelplatelaunch-1024x1024.jpeg",
+    "publishedAt": "2023-05-22T22:23:03Z",
+    "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology… [+593 chars]"
+    },
+    {
+    "source": {
+    "id": "new-scientist",
+    "name": "New Scientist"
+    },
+    "author": null,
+    "title": "SpaceX launches Starlink V2 satellites to increase internet capacity",
+    "description": "A new generation of Starlink’s internet satellites will orbit at low altitudes and eventually re-enter Earth’s atmosphere, limiting the amount of clutter in orbit",
+    "url": "https://www.newscientist.com/article/2361798-spacex-launches-starlink-v2-satellites-to-increase-internet-capacity/",
+    "urlToImage": "https://images.newscientist.com/wp-content/uploads/2023/02/28135738/SEI_146185094.jpg",
+    "publishedAt": "2023-02-28T00:00:00Z",
+    "content": "By Chris Stokel-Walker The Starlink launch at Cape Canaveral, Florida, on 27 February 2023 SpaceX A rocket carrying 21 new generation Starlink satellites successfully launched into orbit at 6:13pm… [+2305 chars]"
+    },
+    {
+    "source": {
+    "id": "national-geographic",
+    "name": "National Geographic"
+    },
+    "author": "Nadia Drake",
+    "title": "How these feuding map-makers shaped our fascination with Mars",
+    "description": "One was an artist who loved space. His rival was a bold professional astronomer. Their race to map the red planet sparked decades of science and speculation.",
+    "url": "https://www.nationalgeographic.com/science/2021/02/how-feuding-map-makers-shaped-our-fascination-with-mars.html",
+    "urlToImage": "https://pmdvod.nationalgeographic.com/NG_Video/788/579/smpost_1612381336455.jpg",
+    "publishedAt": "2021-02-17T14:37:21.3706142Z",
+    "content": null
+    }
+    ]
+    }
